@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Admin</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>572d75ac-da51-4bfc-bd68-7440e650e862</testSuiteGuid>
+   <testCaseLink>
+      <guid>d0341633-ef92-42c0-9180-b3a3bc5cb74c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Admin/Test Delete User</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>97edf351-3476-4513-92c7-2ec16c1e6d23</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Admin Data</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d3a0568e-2ad4-491a-97e5-c99a6b1bd810</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6ac6d47c-a9c4-49c6-a219-9671854754e8</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

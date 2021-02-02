@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_adults_plus</name>
+   <tag></tag>
+   <elementGuidId>03c4ebd5-e80b-4e2c-ab54-0265844e3c0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;hotels&quot;]//input[@name=&quot;adults&quot;]/following-sibling::span/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;hotels&quot;]//input[@name=&quot;adults&quot;]/following-sibling::span/button[1]</value>
+   </webElementProperties>
+</WebElementEntity>

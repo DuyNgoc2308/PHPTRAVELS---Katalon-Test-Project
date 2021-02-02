@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Delete User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec0d0668-b049-458f-a2b2-13530b2164bb</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.email</defaultValue>
+      <description></description>
+      <id>d3a0568e-2ad4-491a-97e5-c99a6b1bd810</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.password</defaultValue>
+      <description></description>
+      <id>6ac6d47c-a9c4-49c6-a219-9671854754e8</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

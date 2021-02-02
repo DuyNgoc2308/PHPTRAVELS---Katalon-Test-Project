@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Sign In</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b298bea8-a373-460d-b652-5d5a5e737bac</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.email</defaultValue>
+      <description></description>
+      <id>927fecd3-0091-497b-a34b-a6cc35f7ff89</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.password</defaultValue>
+      <description></description>
+      <id>a3df3473-8f88-4669-8320-a25dfa2acdf5</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

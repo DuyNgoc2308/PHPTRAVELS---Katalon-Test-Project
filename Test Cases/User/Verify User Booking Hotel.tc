@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify User Booking Hotel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb5bd6d1-7a03-407a-94ec-8f31f9e23dc7</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.firstname</defaultValue>
+      <description></description>
+      <id>79390c87-6d0f-489f-a5f5-426501839e38</id>
+      <masked>false</masked>
+      <name>firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.lastname</defaultValue>
+      <description></description>
+      <id>727ac38a-5207-4b0e-a96f-1f3c1f19c17d</id>
+      <masked>false</masked>
+      <name>lastname</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.phone</defaultValue>
+      <description></description>
+      <id>776523e6-7e54-4955-a05d-42376c45ed13</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.email</defaultValue>
+      <description></description>
+      <id>d8cff7de-a295-44a5-b58f-2e4880660cab</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.password</defaultValue>
+      <description></description>
+      <id>6f16bb65-96d5-4a1c-9572-d4c7b1bf263f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Sign Up</name>
+   <tag>Sign Up With An Existed Account</tag>
+   <comment></comment>
+   <testCaseGuid>928797ea-9e1d-49ac-9f75-4f39d234b16c</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.firstname</defaultValue>
+      <description></description>
+      <id>361507d4-b917-4144-aa88-570023073e5a</id>
+      <masked>false</masked>
+      <name>firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.lastname</defaultValue>
+      <description></description>
+      <id>1c37c89d-7b95-42fb-af6a-da0515171bc1</id>
+      <masked>false</masked>
+      <name>lastname</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.phone</defaultValue>
+      <description></description>
+      <id>4a91e363-8b05-413d-a44a-ac56a2727f2f</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.email</defaultValue>
+      <description></description>
+      <id>1e591d79-53fd-4f56-aa47-0c1859e8334b</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.password</defaultValue>
+      <description></description>
+      <id>8550517d-e4b4-4aa0-8757-aeaf40c1f993</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

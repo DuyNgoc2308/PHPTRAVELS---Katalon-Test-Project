@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_children_minus</name>
+   <tag></tag>
+   <elementGuidId>2df4ec9f-33ad-4e06-a712-3fca586c5162</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;hotels&quot;]//input[@name=&quot;children&quot;]/following-sibling::span/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;hotels&quot;]//input[@name=&quot;children&quot;]/following-sibling::span/button[2]</value>
+   </webElementProperties>
+</WebElementEntity>
